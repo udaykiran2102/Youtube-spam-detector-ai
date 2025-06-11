@@ -52,18 +52,9 @@ An advanced AI-powered spam detection system for YouTube comments leveraging sta
 
 <div align="center">
 
-```mermaid
-graph TB
-    A[Raw YouTube Comments] --> B[Data Preprocessing]
-    B --> C[BERT Tokenization]
-    C --> D[BERT Model Fine-tuning]
-    D --> E[Binary Classification]
-    E --> F[Spam/Not Spam Prediction]
-    
-    G[Model Training] --> H[Validation & Testing]
-    H --> I[Performance Metrics]
-    I --> J[Model Deployment]
-```
+<img src="Architectural Diagram.png" alt="YouTube Spam Detector Architecture" width="800"/>
+
+*Figure 1: Complete system architecture showing the data flow from raw YouTube comments through BERT processing to final spam classification*
 
 </div>
 
@@ -95,6 +86,7 @@ youtube-spam-detector-ai/
 │   └── ⚠️  model.safetensors (Not included due to large file size)
 │
 ├── 🐍 spamdetector.py
+├── 🖼️ Architectural Diagram.png
 ├── 📖 README.md
 └── 📄 requirements.txt
 ```
