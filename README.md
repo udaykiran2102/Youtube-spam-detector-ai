@@ -3,7 +3,7 @@
 <p align="center">  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E53E3E&center=true&vCenter=true&random=false&width=600&lines=YouTube+Spam+Detection+System;BERT-based+NLP+Model;Real-time+Comment+Classification;Built+by+AI+Enthusiasts" alt="Typing SVG" />
-  </a> 
+  </a>  
 </p>
   
 <div align="center">
